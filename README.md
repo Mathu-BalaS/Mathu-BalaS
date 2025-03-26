@@ -23,9 +23,9 @@ I am a passionate web developer and UI/UX designer with experience in front-end 
 - 📜 **Menu Card Design** - Favorite design (Codsoft Task)
 
 ## 📫 Connect With Me
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
-- **LinkedIn**: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
+- **GitHub**: [github.com/Mathu-BalaS](https://github.com/Mathu-BalaS)
+- **LinkedIn**: [linkedin.com/in/MathuBala](https://www.linkedin.com/in/mathu-bala-687094318/)
+
 
 💡 *Always open to learning and collaborating on exciting projects!*
 
